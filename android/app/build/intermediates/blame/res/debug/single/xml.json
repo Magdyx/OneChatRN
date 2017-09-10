@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Magdy\\WebstormProjects\\OneChatRN\\OneChat\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Magdy\\WebstormProjects\\OneChatRN\\OneChat\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.47.2\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Magdy\\WebstormProjects\\OneChatRN\\OneChat\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\Magdy\\WebstormProjects\\OneChatRN\\OneChat\\android\\app\\build\\intermediates\\exploded-aar\\OneChat\\react-native-image-picker\\unspecified\\res\\xml\\provider_paths.xml"
+    }
+]

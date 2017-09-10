@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "353283116211",
+    "firebase_url": "https://onechat-3d749.firebaseio.com",
+    "project_id": "onechat-3d749",
+    "storage_bucket": "onechat-3d749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353283116211:android:db314ea29094c31d",
+        "android_client_info": {
+          "package_name": "com.onechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353283116211-1tk3e209nt48hupu8rhultj50882k2ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdBiRdirzp5NAH88toUFIdmdc1kd2fu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
